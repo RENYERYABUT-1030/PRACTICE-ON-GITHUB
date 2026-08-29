@@ -5,7 +5,11 @@ import java.util.Queue;
 //Problem: The queue should remove the first person who entered.
 /*
  * Group Members:
- * 
+ *  Hamdain, Redwann
+ * Gertos, Joshua Miguel
+ * Makasakit, Josch Martie
+ * Utrera, Sean John Daniel
+ * Yabut, Renyer N.
  * */
 public class Group5 {
     public static void main(String[] args) {

@@ -2,7 +2,11 @@ package Activity2;
 //Problem: The program should display all elements of the array.
 /*
  * Group Members:
- * 
+ *  Hamdain, Redwann
+ * Gertos, Joshua Miguel
+ * Makasakit, Josch Martie
+ * Utrera, Sean John Daniel
+ * Yabut, Renyer N.
  * */
 public class Group1 {
     public static void main(String[] args) {
